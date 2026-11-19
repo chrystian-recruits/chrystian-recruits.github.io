@@ -3,7 +3,7 @@
  * After you deploy apps_script/Code.gs as a Web App, paste the web-app URL below.
  * Posts as text/plain (simple request, no CORS preflight).
  */
-const APPS_SCRIPT_URL = "APPS_SCRIPT_URL";
+const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbySL-J89e2aMRYteBse33vfpfeC4UG5PGnNPf4fL6FwFSkmsLVHQlgfjUOVcE7eBWLjBA/exec";
 
 (function () {
   const form = document.getElementById("apply-form");
